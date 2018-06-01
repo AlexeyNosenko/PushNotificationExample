@@ -1,0 +1,16 @@
+
+{
+"aps": {
+"alert": "Breaking News!",
+"sound": "default",
+"info": "qweqweqwee",
+"title": "Test-3",
+"category": "news"
+}
+}
+
+{
+"aps": {
+"content-available": 1
+}
+}
